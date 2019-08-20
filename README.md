@@ -1,10 +1,6 @@
 # circle-progress
 vue实现线性进度条和环形进度条
 
-## 效果图
-
-![](C:\Users\dell\Desktop\0]KL2%EY{3M2R%91W1[BARA.png)
-
 ## 选项卡
 
 | 参数         | 说明                                         | 类型    | 可选值        | 默认值 |
